@@ -1,0 +1,37 @@
+nav{background-color:rgb(33, 124, 19);width:100%;margin:0;position:fixed;top:0;width:98.1%}
+.nav-container{position:relative;z-index:1;}
+li{display:inline-block;margin-left:25px;}
+nav a{text-decoration:none;padding:20px;font-family:"Times New Roman";color:rgb(243, 227, 8)}
+nav a:hover{color:rgb(27, 109, 49);background-color:rgb(255, 243, 10)}
+h3.university{color:darkgreen;text-align:center;font-family:"Algerian";font-size:30px;background-color:blanchedalmond;padding:4px;margin:0;margin-top:-17px}
+p.university{color:rgb(7, 16, 7);text-align:center;font-family:"Elephant";font-size:15px;background-color:antiquewhite;margin:0px}
+.first{background:url("https://pbs.twimg.com/media/FGFFx5kXEAgmHYN.jpg:large");width:100%;height:900px}
+.row{background-color:rgb(243, 240, 240);}
+.col{margin-top:40px;border:2px solid black;padding:30px;padding-bottom:0px;}
+li p{font-size:15px;margin-left:-80px;}
+hr{margin-left:-30px;}
+p a{color:blue;text-decoration:none}
+.knowmore{background-color:rgb(12, 12, 81);font-weight:bold;padding:20px;text-align:center}
+.knowmore a{text-decoration:none;color:white;}
+.admission{color:rgb(0, 0, 0);background-color:rgb(231, 246, 233);font-family:"calibri";margin-left:370px;padding:50px;text-align:center;border:2px solid white;border-radius:50%;width:500px;text-shadow:2px 2px rgb(199, 232, 18);}
+.division{background-image:url("https://preview.pixlr.com/images/800wm/1095/2/1095102846.jpg");}
+button a{text-decoration:none;}
+span{margin-left:370px;MARGIN-TOP:30PX;}
+.spotlight{text-align:center;text-shadow:4px 4px 4px white;height:400px;width:100%;}
+.spotlight h3{background:url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");}
+body{background-color:rgb(205, 212, 218)}
+#research a{color:rgb(17, 14, 68);text-decoration:none;background:url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");padding:10px;text-shadow:5px 5px 5px white;font-size:20px;font-family:"elephant";}
+#research{margin-top:35px;margin-left:20px}
+#research a:hover{color:green;}
+.more{background:url("https://cdn.pixabay.com/photo/2017/04/05/04/44/background-2203989_960_720.jpg");background-size:cover;background-repeat:no-repeat;margin-top:30px;height:650px}
+h4{text-align:center;font-size:60px;text-shadow:10px 10px 10px rgb(21, 19, 19);color:rgb(15, 12, 12);}
+iframe{padding:50px;width:600px;height:350px;}
+h5{font-size:30px;}
+@media screen and (max-width:1270px)
+{
+iframe{width:50%}
+}
+@media screen and (max-width:920px)
+{
+.admission{margin-left:190px;width:50%}
+}
